@@ -19,8 +19,8 @@ Before running the script, make sure you have the following prerequisites instal
    git clone https://github.com/zubairjammu786/decrypt-chrome-passwords-all-users.git
    
 2. Navigate to the repository:
-cd decrypt-chrome-passwords-all-users
+   cd decrypt-chrome-passwords-all-users
 
 3. Run 
-  python decrypt_chrome_passwords.py
+   python decrypt_chrome_passwords.py
 
