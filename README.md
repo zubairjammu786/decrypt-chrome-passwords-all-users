@@ -13,13 +13,13 @@ Before running the script, make sure you have the following prerequisites instal
 ## How to Use
 
 1. Clone the repository:
-   '''git clone https://github.com/zubairjammu786/decrypt-chrome-passwords-all-users.git
+'''git clone https://github.com/zubairjammu786/decrypt-chrome-passwords-all-users.git
+   
+3. Navigate to the repository
+'''cd decrypt-chrome-passwords-all-users
 
-2. Navigate to the repository
-   '''cd decrypt-chrome-passwords-all-users
-
-3. Run the script:
-   '''python decrypt_chrome_passwords.py
+4. Run the script:
+'''python decrypt_chrome_passwords.py
 
 ## Features
 
