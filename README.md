@@ -18,9 +18,11 @@ Before running the script, make sure you have the following prerequisites instal
    ```bash
    git clone https://github.com/zubairjammu786/decrypt-chrome-passwords-all-users.git
    
-2. Navigate to the repository:
-   cd decrypt-chrome-passwords-all-users
+- Navigate to the repository:
+cd decrypt-chrome-passwords-all-users
+Run this script :
+python decrypt_chrome_passwords.py
+-The script will decrypt Chrome passwords for all users and store them in separate CSV files in the current directory.
 
-3. Run 
-   python decrypt_chrome_passwords.py
+
 
